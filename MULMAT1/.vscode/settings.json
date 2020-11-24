@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ranges": "cpp",
+        "chrono": "cpp",
+        "fstream": "cpp"
+    }
+}
